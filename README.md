@@ -6,5 +6,6 @@
 3. Open http://localhost:8080/register.
 
 ## Screenshots
-- Form: [attach screenshot]
-- Confirmation: [attach screenshot]
+- Form: <img width="1920" height="1080" alt="Screenshot 2026-02-04 214137" src="https://github.com/user-attachments/assets/6a90deee-9290-42a3-8d46-8c8f7528a713" />
+
+- Confirmation: 
